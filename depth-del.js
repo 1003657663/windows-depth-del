@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+
 debugger;
 
 const readline = require('readline');
