@@ -1,0 +1,24 @@
+{
+  "name": "windows-depth-del",
+  "version": "1.0.0",
+  "description": "window 深度删除",
+  "main": "del.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1003657663/windows-depth-del.git"
+  },
+  "keywords": [
+    "del",
+    "window",
+    "node"
+  ],
+  "author": "songchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1003657663/windows-depth-del/issues"
+  },
+  "homepage": "https://github.com/1003657663/windows-depth-del#readme"
+}
